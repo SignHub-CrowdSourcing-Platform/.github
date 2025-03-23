@@ -27,13 +27,7 @@ We’re always looking for passionate contributors to join our mission. Here’s
 
 ---
 
-### 📂 **Our Repositories**
-Here are some of the key repositories in our organization:
-- **[SignHub-Core](https://github.com/SignHub-CrowdSourcing-Platform/SignHub-Core)**: The core platform for gesture collection and translation.
-- **[SignHub-Web](https://github.com/SignHub-CrowdSourcing-Platform/SignHub-Web)**: The web interface for the platform.
-- **[SignHub-Mobile](https://github.com/SignHub-CrowdSourcing-Platform/SignHub-Mobile)**: Mobile apps for gesture submission and translation.
 
----
 
 ### 📚 **Useful Resources**
 - **[Contribution Guidelines](https://github.com/SignHub-CrowdSourcing-Platform/.github/blob/main/CONTRIBUTING.md)**: Learn how to contribute to our projects.
@@ -54,4 +48,3 @@ We’re more than just a project—we’re a community. Join us today and be par
 
 ---
 
-✨ **With the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), we can do mighty things!** ✨
